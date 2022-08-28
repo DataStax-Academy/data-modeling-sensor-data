@@ -54,7 +54,7 @@ astra db get data-modeling
 astra db resume data-modeling
 ```
 
-✅ If database `data-modeling` has status `RESUMING` or `PENDING`, **wait until the status becomes `ACTIVE`**:
+✅ If database `data-modeling` has status `RESUMING`, `MAINTENANCE` or `PENDING`, **wait until the status becomes `ACTIVE`**:
 ```
 astra db get data-modeling
 ```
