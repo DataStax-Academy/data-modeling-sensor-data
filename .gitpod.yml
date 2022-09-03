@@ -21,4 +21,4 @@ github:
     main: true
 vscode:
    extensions:
-    - hadesarchitect.helloworld-web-sample
+    - hadesarchitect.katapod
