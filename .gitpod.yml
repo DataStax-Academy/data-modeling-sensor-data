@@ -21,4 +21,4 @@ github:
     main: true
 vscode:
    extensions:
-    - hadesarchitect.katapod
+    - hadesarchitect.katapod@@0.6.0-7
