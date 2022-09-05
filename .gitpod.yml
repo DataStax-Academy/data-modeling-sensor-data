@@ -13,9 +13,9 @@
 #                  -v ${PWD}/config/cassandra.yaml:/etc/cassandra/cassandra.yaml \
 #                  -v ${PWD}/config/cassandra-rackdc.properties:/etc/cassandra/cassandra-rackdc.properties cassandra:4.0
 #       source /home/gitpod/.astra/cli/astra-init.sh
-# ports:
-#   - port: 9042
-#     onOpen: ignore
+ports:
+  - port: 9042
+    onOpen: ignore
 # github:
 #   prebuilds:
 #     main: true
