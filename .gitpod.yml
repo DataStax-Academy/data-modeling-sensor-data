@@ -18,7 +18,7 @@ ports:
     onOpen: ignore
 # github:
 #   prebuilds:
-#     main: true
-# vscode:
-#    extensions:
-#     - hadesarchitect.katapod@0.6.0-9
+    main: true
+vscode:
+   extensions:
+    - hadesarchitect.katapod@0.6.0-12
