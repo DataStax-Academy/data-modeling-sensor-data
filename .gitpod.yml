@@ -19,6 +19,6 @@ ports:
 github:
   prebuilds:
     main: true
-vscode:
-   extensions:
-    - hadesarchitect.katapod@0.6.0-20220902-9
+# vscode:
+#    extensions:
+#     - hadesarchitect.katapod@0.6.0-9
