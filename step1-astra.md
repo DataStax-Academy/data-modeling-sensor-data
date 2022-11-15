@@ -29,7 +29,7 @@
   <li>Create an application token with the <i>Database Administrator</i> role by following <a href="https://awesome-astra.github.io/docs/pages/astra/create-token/" target="_blank">these instructions</a></li>
 </ul>
 
-You can reuse the same token in our other scenarios, too.
+You can reuse the same token in our other labs, too.
 
 ✅ Setup Astra CLI by providing your application token:
 ```
