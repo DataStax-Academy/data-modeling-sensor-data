@@ -22,11 +22,11 @@
 
 <div class="step-title">Connect to Astra DB and create a database</div>
 
-✅ Create an application token to access Astra. Skip this step is you already have a token.
+✅ Create an application token with the *Database Administrator* role to access Astra DB. Skip this step is you already have a token.
 
 <ul>
   <li>Sign in (or sign up) to your Astra account at <a href="https://astra.datastax.com" target="_blank">astra.datastax.com</a></li>
-  <li>Create an application token by following <a href="https://awesome-astra.github.io/docs/pages/astra/create-token/" target="_blank">these instructions</a></li>
+  <li>Create an application token with the *Database Administrator* role by following <a href="https://awesome-astra.github.io/docs/pages/astra/create-token/" target="_blank">these instructions</a></li>
 </ul>
 
 You can reuse the same token in our other scenarios, too.
